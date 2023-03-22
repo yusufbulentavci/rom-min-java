@@ -1,0 +1,1 @@
+/home/rompg/.m2/repository/com/bilgidoku/rom-min/4.0.1/rom-min-4.0.1.jar:/home/rompg/.m2/repository/commons-cli/commons-cli/1.4/commons-cli-1.4.jar:/home/rompg/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/home/rompg/.m2/repository/commons-io/commons-io/2.5/commons-io-2.5.jar
