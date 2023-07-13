@@ -8,8 +8,7 @@
 	<parent>
 		<groupId>com.bilgidoku</groupId>
 		<artifactId>rom-baslik</artifactId>
-		<version>dev</version>
-		<relativePath>../rom-baslik/pom.xml</relativePath>
+		<version>5.0.0</version>
 	</parent>
 	<artifactId>rom-min-java</artifactId>
 	<version>5.0.0</version>
